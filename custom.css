@@ -7,11 +7,11 @@ body {
 h3 {
   font-size: 40px;
   color: #333;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 a.heading{
-  color: #333;
+  color: white;
 } a:hover{
   text-decoration: none;
   color: orangered;
