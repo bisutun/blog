@@ -1,0 +1,28 @@
+body {
+  padding-top: 60px;
+  margin-top: 60px;
+  color: #333;
+}
+
+a{
+  color: black;
+} a:hover{
+  text-decoration: none;
+  color: orangered;
+}
+
+.brand {
+  font-family: Yanone Kaffeesatz;
+  font-weight: 700;
+  font-size: 60px;
+  color: white;
+  display: inline;
+} .brand:hover{
+  text-decoration: none;
+  color: orangered;
+}
+
+.navbar{
+  background-color: #333;
+  border: none;
+}
