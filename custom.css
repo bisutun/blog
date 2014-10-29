@@ -5,12 +5,13 @@ body {
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 40px;
   color: #333;
+  margin-bottom: 20px;
 }
 
-a{
-  color: black;
+a.heading{
+  color: #333;
 } a:hover{
   text-decoration: none;
   color: orangered;
