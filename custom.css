@@ -19,7 +19,6 @@ a{
 .heading {
   font-family: Yanone Kaffeesatz;
   font-weight: 700;
-  color: white;
   display: inline;
 } .heading:hover{
   text-decoration: none;
@@ -30,4 +29,5 @@ a{
   background-color: #333;
   border: none;
   font-size: 60px;
+  color: white;
 }
